@@ -1,0 +1,1 @@
+Search bar feature works similar to a looking for text. A user will type in a community name and see what best matches.

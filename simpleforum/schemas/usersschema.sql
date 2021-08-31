@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS users (
+    uid int(11) AUTO_INCREMENT PRIMARY KEY NOT NULL,
+    password LONGTEXT NOT NULL,
+    username TINYTEXT NOT NULL,
+    firstName TINYTEXT NOT NULL,
+    lastName TINYTEXT NOT NULL,
+    email TINYTEXT NOT NULL
+);
